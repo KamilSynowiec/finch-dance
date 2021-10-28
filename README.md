@@ -1,5 +1,3 @@
-Task 6: Dance
-
 The purpose of this program is to make a finch robot perform a dance routine. The dance is determined by the user input. 
 However, I made this problem slightly more interesting by using different numeral systems. 
 I used binary, decimal, octal and hexadecimal number systems. 
